@@ -1,0 +1,1 @@
+Estou fazendo a jornada de machine learning da rocketseat e vou compartilhar aqui o que estou aprendendo.

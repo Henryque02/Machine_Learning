@@ -1,8 +1,10 @@
 [project]
 name = "machine-learning"
 version = "0.1.0"
+description = "Projetos da minha jornada de Machine Learning: estatística, EDA, regressão linear e deploy de modelo com FastAPI — trilha da Rocketseat + desafios práticos."
 readme = "README.md"
-requires-python = "==3.12.12"
+authors = [{ name = "Henryque" }]
+requires-python = ">=3.12"
 dependencies = [
     "fastapi>=0.122.0",
     "matplotlib>=3.10.7",

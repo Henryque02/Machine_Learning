@@ -1,12 +1,20 @@
-# Flask stuff:
-instance/
-.webassets-cache
+# Python
+__pycache__/
+*.py[cod]
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# Jupyter
+.ipynb_checkpoints/
 
-# Environments
-.venv
+# Ambientes virtuais
+.venv/
+venv/
 
-# python
-__pycache__
+# IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+
+# Obs.: modelos .pkl são versionados de propósito —
+# o modelo_regressao.pkl permite rodar a API sem retreinar.
